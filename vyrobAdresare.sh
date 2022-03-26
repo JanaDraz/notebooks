@@ -1,0 +1,9 @@
+mkdir outVDPbackward
+mkdir outVDPforward
+mkdir outVDPinter
+mkdir outG1Sbackward
+mkdir outG1Sforward
+mkdir outG1Sinter
+mkdir outBRUbackward
+mkdir outBRUforward
+mkdir outBRUinter
